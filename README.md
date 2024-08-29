@@ -3,14 +3,14 @@
   <img src="https://komarev.com/ghpvc/?username=DaikiTanak" />
 </div>
 
-
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a software engineer, especially intereted in machine learning.
-- 📫 How to reach me: [Twitter - @ikiYosky](https://twitter.com/ikiYosky)
+- 📫 How to reach me:
+  - [Twitter - @ikiYosky](https://twitter.com/ikiYosky)
+  - email: daiki.yosky@gmail.com
 <br>
-
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
@@ -19,7 +19,6 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,fastapi,go,docker,terraform,aws" />
 <br>
 
-
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
@@ -27,7 +26,6 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=DaikiTanak&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaikiTanak&theme=vue-dark&layout=compact" />
 </div>
-
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
