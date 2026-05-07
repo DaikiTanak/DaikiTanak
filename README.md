@@ -7,7 +7,6 @@
 
 - 🧑‍💻 I'm a software engineer, especially intereted in machine learning.
 - 📫 How to reach me:
-  - [Twitter - @ikiYosky](https://twitter.com/ikiYosky)
   - email: daiki.yosky@gmail.com
 <br>
 
