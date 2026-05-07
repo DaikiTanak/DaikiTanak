@@ -5,7 +5,7 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 
-- 🧑‍💻 I'm a software engineer, especially intereted in machine learning.
+- 🧑‍💻 I'm a software engineer, especially interested in machine learning. I enjoy working across the stack — from ML model development to backend APIs and cloud infrastructure.
 - 📫 How to reach me:
   - email: daiki.yosky@gmail.com
 <br>
